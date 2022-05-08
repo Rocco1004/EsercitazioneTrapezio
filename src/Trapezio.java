@@ -1,3 +1,4 @@
+
 /**
  * <b><h6>Rocco Mele</b></h6>
  * 
@@ -5,6 +6,7 @@
  * 
  * @author Rocco
  *
+ * non ci sono errori
  */
 public class Trapezio {
 	
